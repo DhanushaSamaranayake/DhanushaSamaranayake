@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhanushaSamaranayake&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushaSamaranayake&&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=black&bg_color=white">
 
 <br /> 
 
