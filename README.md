@@ -52,6 +52,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br><br>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>    <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
  </p>
+ <br>
+ <a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
+    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+</a>
     
 
 <br />
