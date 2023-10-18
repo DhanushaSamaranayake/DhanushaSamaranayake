@@ -66,5 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushaSamaranayake&" alt="DhanushaSamaranayake" /></p><br>
 
+[![An image of @dhanu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanu)](https://holopin.io/@dhanu)
+
 
 
