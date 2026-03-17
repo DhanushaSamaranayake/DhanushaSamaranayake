@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Currently Learning Android Application Development & Vector Arts
 - 👀 Looking to collaborate with Open Source Projects.
 - 😎 Never stop Dreaming...✨
-- 📫 How to contact me **renukajagath00@gmail.com**
+- 📫 How to contact me **dhanushasamaranayake@gmail.com**
 - 🎮 Play games and do coding...!🧑‍💻
 
 <br />
